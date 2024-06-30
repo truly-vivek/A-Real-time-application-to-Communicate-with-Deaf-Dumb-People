@@ -1,0 +1,9 @@
+asgiref
+click
+Django>=4.1.9
+joblib
+nltk
+regex
+sqlparse
+tqdm
+setuptools
